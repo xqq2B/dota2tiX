@@ -1,0 +1,77 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.utcj.edu.mx/">
+    <url>
+        <loc>https://www.utcj.edu.mx/Noticias/default.aspx</loc>
+        <lastmod>2021-05-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+     <url>
+        <loc>https://www.utcj.edu.mx/Planeacion/Paginas/Presupuesto-Basado-en-Resultados.aspx</loc>
+        <changefreq>weekly</changefreq>
+        <lastmod>2021-05-11</lastmod>
+    </url>
+
+    <url>
+        <loc>https://www.utcj.edu.mx/Documents/AvisoPrivacidad.pdf</loc>
+        <changefreq>weekly</changefreq>
+        <lastmod>2015-12-23</lastmod>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://www.utcj.edu.mx/Transparencia/Paginas/Licitaciones.aspx</loc>
+        <lastmod>2021-05-04</lastmod>
+        <changefreq>daily</changefreq>
+    </url>
+
+     <url>
+        <loc>https://www.utcj.edu.mx/PublishingImages/Mapa%20Ubicacio%CC%81n%20UTCJ%20BajaRes.jpg</loc>
+        <changefreq>weekly</changefreq>
+        <changefreq>weekly</changefreq>
+        <lastmod>2018-11-23</lastmod>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://www.utcj.edu.mx/Planeacion/PublishingImages/aviso_buzon_quejas.jpg</loc>
+        <changefreq>monthly</changefreq>
+        <lastmod>2014-12-23</lastmod>
+    </url>
+    <url>
+        <loc>https://www.utcj.edu.mx/Paginas/Usuarios/Inscripciones.aspx</loc>
+        <lastmod>2021-05-04</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+     <url>
+        <loc>https://www.utcj.edu.mx/Normatividad</loc>
+        <changefreq>weekly</changefreq>
+        <lastmod>2019-02-05</lastmod>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://www.utcj.edu.mx/Transparencia/Paginas/ContraloriaSocial.aspx</loc>
+        <changefreq>weekly</changefreq>
+        <lastmod>2007-10-05</lastmod>
+    </url>
+    <url>
+        <loc>https://sise.utcj.edu.mx/Empresas/Cuenta/Login.aspx</loc>
+        <lastmod>2021-05-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+     <url>
+        <loc>https://www.utcj.edu.mx/ExtensionUniversitaria/Paginas/Programa-Talleres-de-Artes-y-Oficios.aspx</loc>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://www.utcj.edu.mx/Documents/oferta%20educativa%202021.pdf</loc>
+        <changefreq>monthly</changefreq>
+        <lastmod>2017-03-13</lastmod>
+    </url>
+</urlset>

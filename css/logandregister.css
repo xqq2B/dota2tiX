@@ -1,0 +1,197 @@
+*{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-left: 0;
+}
+header{
+    background-image: url("../img/bgbanner.jpg");
+    min-height: auto;
+    position:fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    top:0;
+}
+
+.navbar h1{
+    color:rgb(245, 245, 247);  
+}
+.navbar{
+    overflow: hidden;
+    top: 0;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 1%;
+    align-items: center;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:transparent;
+  }
+  .rli{
+      float: right;
+  }
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: rgb(201, 20, 20);
+  }
+
+.container{
+    width: 15%;
+    display: block;
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    background-color:rgb(165, 41, 41);
+    padding: 2%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    align-items: center;
+    text-align: center;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.container img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 150px;
+height: auto;
+}
+
+.container button{
+    border-radius: 3px;
+    padding: 4px;
+    margin: 3px;
+    color:white;
+    background-color: black;
+}
+
+.container button:hover{
+    cursor: pointer;
+    color:red;
+}
+
+.container input{
+    padding: 3px;
+    margin:4px;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+
+.all{
+ 
+    background-position: center;
+    background-repeat: repeat;
+    background-size:cover;
+    height: 200%;
+    width: 100%;
+    top: 0;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 70%;
+}
+
+body h1{
+    float: left;
+    color:rgb(86, 16, 214);
+    text-decoration: underline;
+}
+body h1:hover{
+    cursor: pointer;
+}
+.cchat{
+    background-color: white;
+    width: 100%;
+    height: 400px;
+    color: black;
+    border-radius: 8px;
+    background-color: rgb(131, 21, 98);
+}
+.cchat p{
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: left;
+    background-color: lavenderblush;
+}
+.cchat .ans p{
+    text-align: right;
+    background-color: lightgreen;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.containerS{
+    width: 35%;
+    display: block;
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    background-color:rgb(165, 41, 41);
+    padding: 2%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    align-items: center;
+    text-align: center;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.containerS img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+}
+
+.containerSM{
+    width: 35%;
+    display: block;
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    padding: 2%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    align-items: center;
+    text-align: center;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.hSM{
+    float: center;
+    color:white;
+}

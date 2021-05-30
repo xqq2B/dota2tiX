@@ -1,29 +1,59 @@
-.navbar{
-    background-color:rgb(0, 238, 255) ;
-    overflow: hidden;
-    position: fixed;
-    top: 0;
+*{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-left: 0;
+}
+header{
+    background-image: url("../img/bgbanner.jpg");
+    min-height: auto;
+    position:fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
     width: 100%;
+    top:0;
 }
 
-.navbar a{
-    float: left;
-    display: block;
-    color: rgb(0, 0, 0);
-    text-align: left;
-    padding: 15px 18px;
-    text-decoration: none;
+.navbar h1{
+    color:rgb(245, 245, 247);  
 }
-
-.navbar a:hover{
-    background: chocolate;
-    color: cyan;
-}
-
-.navbarright{
+.navbar{
+    overflow: hidden;
+    top: 0;
     margin-left: 10%;
-    background: silver;
+    margin-right: 10%;
+    margin-bottom: 1%;
+    align-items: center;
+    
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:transparent;
+  }
+  .rli{
+      float: right;
+  }
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: rgb(201, 20, 20);
+  }
+
 
 .main{
     margin-top: 30px;
@@ -34,12 +64,110 @@
     background: springgreen;
 }
 
+
 .fill{
-    margin-top: 5%;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-top: 8%;
+    margin-left: 30%;
+    margin-right: 30%;
     overflow: hidden;
-    background: darkgray;
+    background-color:transparent;
     padding: 2%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.fill img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 250px;
+    height: auto;
 }
 
+body{
+    background-color: black;
+}
+
+.all{
+    background-image: url("../img/bgbannerbody.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100%;
+    width: 100%;
+    top: 0;
+}
+
+.fill .im{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 450px;
+    height: auto;
+}
+
+input[type=text], select, textarea {
+    width: 90%;
+    padding: 12px;
+    border-radius: 4px;
+    margin-top: 6px;
+    margin-bottom: 14px;
+    color: rgb(5, 5, 5);
+    font-weight: bold;
+  }
+  
+  input[type=submit] {
+    background-color: #030303;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    color: red;
+  }
+  
+  .containerC {
+    width: 30%;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    background-color:rgb(121, 24, 53);
+    padding: 2%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    border-radius: 4px;
+    text-align: center;
+  }
+  
+  label{
+      font-weight: bold;
+      font-size: 20px;
+  }
+  .fill2{
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    overflow: hidden;
+    background-color:transparent;
+    padding: 2%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.fill2 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 350px;
+    height: auto;
+}

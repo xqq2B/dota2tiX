@@ -1,32 +1,32 @@
 <?xml version = "1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.utcj.edu.mx/">
+<urlset xmlns="http://www.dota2tix.com//">
     <url>
-        <loc>https://www.utcj.edu.mx/Noticias/default.aspx</loc>
+        <loc>http://www.dota2tix.com/about.html</loc>
         <lastmod>2021-05-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
      <url>
-        <loc>https://www.utcj.edu.mx/Planeacion/Paginas/Presupuesto-Basado-en-Resultados.aspx</loc>
+        <loc>http://www.dota2tix.com/browser.html</loc>
         <changefreq>weekly</changefreq>
         <lastmod>2021-05-11</lastmod>
     </url>
 
     <url>
-        <loc>https://www.utcj.edu.mx/Documents/AvisoPrivacidad.pdf</loc>
+        <loc>http://www.dota2tix.com/chat.html</loc>
         <changefreq>weekly</changefreq>
         <lastmod>2015-12-23</lastmod>
         <priority>0.3</priority>
     </url>
     <url>
-        <loc>https://www.utcj.edu.mx/Transparencia/Paginas/Licitaciones.aspx</loc>
+        <loc>http://www.dota2tix.com/contact.html</loc>
         <lastmod>2021-05-04</lastmod>
         <changefreq>daily</changefreq>
     </url>
 
      <url>
-        <loc>https://www.utcj.edu.mx/PublishingImages/Mapa%20Ubicacio%CC%81n%20UTCJ%20BajaRes.jpg</loc>
+        <loc>http://www.dota2tix.com/error.html</loc>
         <changefreq>weekly</changefreq>
         <changefreq>weekly</changefreq>
         <lastmod>2018-11-23</lastmod>
@@ -34,43 +34,43 @@
     </url>
 
     <url>
-        <loc>https://www.utcj.edu.mx/Planeacion/PublishingImages/aviso_buzon_quejas.jpg</loc>
+        <loc>http://www.dota2tix.com/help.html</loc>
         <changefreq>monthly</changefreq>
         <lastmod>2014-12-23</lastmod>
     </url>
     <url>
-        <loc>https://www.utcj.edu.mx/Paginas/Usuarios/Inscripciones.aspx</loc>
+        <loc>http://www.dota2tix.com/index.html</loc>
         <lastmod>2021-05-04</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.2</priority>
     </url>
 
      <url>
-        <loc>https://www.utcj.edu.mx/Normatividad</loc>
+        <loc>http://www.dota2tix.com/login.html</loc>
         <changefreq>weekly</changefreq>
         <lastmod>2019-02-05</lastmod>
         <priority>0.5</priority>
     </url>
 
     <url>
-        <loc>https://www.utcj.edu.mx/Transparencia/Paginas/ContraloriaSocial.aspx</loc>
+        <loc>http://www.dota2tix.com/mailbox.html</loc>
         <changefreq>weekly</changefreq>
         <lastmod>2007-10-05</lastmod>
     </url>
     <url>
-        <loc>https://sise.utcj.edu.mx/Empresas/Cuenta/Login.aspx</loc>
+        <loc>https://www.dotatix.com/news.html</loc>
         <lastmod>2021-05-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
 
      <url>
-        <loc>https://www.utcj.edu.mx/ExtensionUniversitaria/Paginas/Programa-Talleres-de-Artes-y-Oficios.aspx</loc>
+        <loc>http://www.dota2tix.com/passrecovery.html</loc>
         <changefreq>monthly</changefreq>
     </url>
 
     <url>
-        <loc>https://www.utcj.edu.mx/Documents/oferta%20educativa%202021.pdf</loc>
+        <loc>http://www.dota2tix.com/register.html</loc>
         <changefreq>monthly</changefreq>
         <lastmod>2017-03-13</lastmod>
     </url>
